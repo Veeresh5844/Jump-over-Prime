@@ -1,0 +1,105 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.hide{
+    display:none;
+}
+header{
+    
+    width:100%;
+    align-items: center;
+    justify-content: center;
+}
+.name{
+    margin-left: 35%;
+    margin-bottom: 30px;
+}
+.msg-container{
+    margin-left: 25px;
+}
+#new-game{
+    margin-left: 45%;
+    height:60px;
+    width:60px;
+    border-radius: 50%;
+    background-color: hsl(160, 87%, 54%);
+}
+.restart{
+    margin-left: 47%;
+    margin-top: 0;
+    height:60px;
+    width:60px;
+    border-radius: 50%;
+    background-color: hsl(53, 93%, 55%);
+}
+#msg1{
+    margin-top: 20px;
+    font-size: 7vmin;
+    color:red;
+    margin-left: 44%; 
+}
+#msg2{
+    margin-top: 20px;
+    font-size: 4vmin;
+    color:rgb(187, 47, 223);
+    margin-left: 40%; 
+}
+
+.text{
+    background-color: rgb(20, 221, 243);
+    color: red;
+    margin-left: 42%;
+    height:70px;
+    width: 200px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buttons{
+    height:200px;
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0;
+  
+
+}
+.btn-green{
+    height:60px;
+    width:60px;
+    border-radius: 50%;
+    background-color: green;
+    margin-right: 100px;
+}
+
+
+.btn-blue{
+    height:60px;
+    width:60px;
+    border-radius: 50%;
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
